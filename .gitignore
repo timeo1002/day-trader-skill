@@ -1,0 +1,3 @@
+# Working state written by the skills (watchlist, plan, orders, fills...)
+trader/*
+!trader/config.json
